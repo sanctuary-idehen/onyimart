@@ -1,0 +1,2 @@
+E:/Onyimart/shopking-customer-app/android/app/.cxx/RelWithDebInfo/4m3z6r85/armeabi-v7a/CMakeFiles/edit_cache.dir
+E:/Onyimart/shopking-customer-app/android/app/.cxx/RelWithDebInfo/4m3z6r85/armeabi-v7a/CMakeFiles/rebuild_cache.dir

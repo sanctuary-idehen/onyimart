@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "321709596593",
+    "project_id": "onyimart-88d19",
+    "storage_bucket": "onyimart-88d19.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:321709596593:android:dee7df191055bd7b996790",
+        "android_client_info": {
+          "package_name": "ng.com.onyimart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB173SsbD3onQt6nqZDgUancyZ0kpHZeRI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
